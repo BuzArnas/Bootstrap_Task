@@ -1,0 +1,56 @@
+body{
+    background-color: #bbb;
+    padding-top:10%;
+    padding-bottom: 10%;
+}
+
+#content{
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+/* ========================================== */
+
+#content-top{
+    padding: 5%;
+}
+
+#content-top-image{
+    width: 80px;
+}
+
+#content-top-image img{
+    width: 75px;
+    height: 75px;
+}
+
+#content-top-text h2, h3, i{
+    font-size: 1em;
+}
+
+#content-top h3{
+    color: #888;
+}
+
+#content-top i{
+    color: #008800;
+}
+
+/* ========================================== */
+
+#content-middle{
+    padding: 0 5% 0 5%;
+}
+
+#content-middle h4{
+    font-size: 1.25em;
+}
+
+/* ========================================== */
+#content-bottom{
+    padding: 0 5% 0 5%;
+}
+
+#content-bottom-right a{
+    float: right;
+}
